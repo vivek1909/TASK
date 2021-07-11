@@ -1,0 +1,11 @@
+.tableWrapper {
+  padding-bottom: 2rem;
+}
+
+.tableWrapper span {
+  padding: 0 1rem;
+}
+
+.paginationButton {
+  font-size: 1.1rem;
+}

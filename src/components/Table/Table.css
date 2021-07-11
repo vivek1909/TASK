@@ -1,0 +1,15 @@
+.tableWrapper {
+  background: rgb(232, 220, 220);
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.tableWrapper table {
+  margin: 2rem 0;
+}
+
+.tableWrapper table caption {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}

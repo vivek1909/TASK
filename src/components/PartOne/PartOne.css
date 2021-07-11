@@ -1,0 +1,17 @@
+.formWrapper {
+  width: 75%;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.partOneForm {
+  margin-top: 5rem;
+}
+
+.partOneForm input {
+  width: 20rem;
+}
+
+.partOneForm input {
+  display: flex;
+}
