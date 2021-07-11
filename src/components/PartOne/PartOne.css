@@ -8,10 +8,10 @@
   margin-top: 5rem;
 }
 
-.partOneForm input {
-  width: 20rem;
+input {
+  margin: 0.7rem 0.5rem;
 }
 
-.partOneForm input {
-  display: flex;
+select {
+  margin: 0.7rem 0.5rem;
 }

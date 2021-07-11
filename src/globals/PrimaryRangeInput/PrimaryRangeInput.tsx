@@ -1,4 +1,5 @@
 import { FC, HTMLProps } from "react"
+import './PrimaryRangeInput.css'
 
 interface Props extends HTMLProps<HTMLInputElement> {
   maxLimit: string;
